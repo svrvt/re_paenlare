@@ -1,0 +1,8 @@
+X-Repolib-Name: purplei2p
+Enabled: yes
+Types: deb deb-src
+URIs: https://ppa.launchpadcontent.net/purplei2p/i2pd/ubuntu
+Suites: jammy
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/keyrings/purplei2p-ubuntu-i2pd.gpg

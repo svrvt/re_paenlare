@@ -1,8 +1,10 @@
 X-Repolib-Name: tor
-Enabled: no
+Enabled: yes
 Types: deb deb-src
 URIs: https://deb.torproject.org/torproject.org
 Suites: jammy
 Components: main
 Architectures: amd64
 Signed-By: /etc/apt/keyrings/tor-archive-keyring.gpg
+X-Repolib-ID: tor-jammy
+

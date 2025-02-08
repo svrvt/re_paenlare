@@ -1,7 +1,10 @@
 X-Repolib-Name: fruit (mpv, firefox)
-Enabled: yes
+Enabled: no
 Types: deb
 URIs: https://apt.fruit.je/ubuntu
 Suites: jammy
 Components: mpv firefox
+Architectures: amd64
 Signed-By: /etc/apt/keyrings/fruit.gpg
+X-Repolib-ID: fruit
+

@@ -1,6 +1,8 @@
 X-Repolib-Name: CUDA
-Enabled: no
+Enabled: yes
 Types: deb
 URIs: https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/
 Suites: /
 Signed-By: /etc/apt/keyrings/cuda-archive-keyring.gpg
+X-Repolib-ID: cuda-ubuntu2204
+
