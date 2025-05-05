@@ -2,6 +2,6 @@ X-Repolib-Name: Nvidia-launchpad
 Enabled: yes
 Types: deb deb-src
 URIs: https://ppa.launchpadcontent.net/graphics-drivers/ppa/ubuntu/
-Suites: jammy
+Suites: noble
 Components: main
 Signed-By: /etc/apt/keyrings/graphics-drivers-ubuntu-ppa.gpg

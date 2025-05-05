@@ -2,6 +2,6 @@ X-Repolib-Name: flatpak stable
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/flatpak/stable/ubuntu/
-Suites: jammy
+Suites: noble
 Components: main
 Signed-By: /etc/apt/keyrings/flatpak-ubuntu-stable.gpg

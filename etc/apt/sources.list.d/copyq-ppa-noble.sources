@@ -2,7 +2,7 @@ X-Repolib-Name: copyq
 Enabled: yes
 Types: deb
 URIs: https://ppa.launchpadcontent.net/hluk/copyq/ubuntu/
-Suites: jammy
+Suites: noble
 Components: main
 Architectures: amd64
 Signed-By: /etc/apt/keyrings/copyq.gpg

@@ -2,6 +2,6 @@ X-Repolib-Name: amnezia
 Enabled: yes
 Types: deb deb-src
 URIs: https://ppa.launchpadcontent.net/amnezia/ppa/ubuntu
-Suites: jammy
+Suites: noble
 Components: main
 Signed-By: /etc/apt/keyrings/amnezia.gpg
