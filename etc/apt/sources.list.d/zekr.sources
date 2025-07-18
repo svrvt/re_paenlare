@@ -1,0 +1,8 @@
+X-Repolib-Name: zekr
+Enabled: yes
+Types: deb deb-src
+URIs: https://ppa.launchpadcontent.net/kelebek333/zekr/ubuntu
+Suites: hirsute
+Components: main
+Architectures: amd64
+Signed-By: /etc/apt/keyrings/graphics-noble.gpg

@@ -5,3 +5,5 @@ URIs: https://download.opensuse.org/repositories/home:/manuelschneid3r/xUbuntu_2
 Suites: /
 Architectures: amd64
 Signed-By: /etc/apt/keyrings/manuelschneid3r.gpg
+X-Repolib-ID: albert-launcher-manuelschneid3r-noble
+

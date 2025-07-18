@@ -1,0 +1,7 @@
+X-Repolib-Name: Nvidia-kelebek
+Enabled: yes
+Types: deb deb-src
+URIs: https://ppa.launchpadcontent.net/kelebek333/build/ubuntu
+Suites: noble
+Components: main
+Signed-By: /etc/apt/keyrings/graphics-noble.gpg

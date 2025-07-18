@@ -3,4 +3,4 @@ Enabled: yes
 Types: deb
 URIs: https://mirror.truenetwork.ru/CRAN/bin/linux/ubuntu
 Suites: noble-cran40/
-Signed-By: /etc/apt/keyrings/cran_ubuntu_key.gpg
+Signed-By: /etc/apt/keyrings/cran-ubuntu-key.gpg

@@ -1,5 +1,5 @@
 X-Repolib-Name: Nvidia-launchpad
-Enabled: yes
+Enabled: no
 Types: deb deb-src
 URIs: https://ppa.launchpadcontent.net/graphics-drivers/ppa/ubuntu/
 Suites: noble

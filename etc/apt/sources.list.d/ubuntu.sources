@@ -1,8 +1,7 @@
 Enabled: yes
-Types: deb deb-src
+Types: deb
 URIs: https://mirror.truenetwork.ru/ubuntu
-Suites: noble noble-updates noble-security 
+Suites: noble noble-updates noble-security noble-backports
 Components: main restricted universe multiverse
 Signed-By: /etc/apt/keyrings/ubuntu-keyring-2018-archive.gpg
 Architectures: amd64
-#noble-backports
